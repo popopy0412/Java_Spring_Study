@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63ad4eaa-19ec-4001-acc3-d2ab8d80128d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/App03GamingSpringBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/GamingConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/helloworld/App02HelloWorldSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/App01GamingBasicJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/App03GamingSpringBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/GamingConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/game/GameRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/game/GamingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/game/MarioGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/game/PacmanGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/game/SuperContraGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/helloworld/App02HelloWorldSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/java/com/feeeeel/learnspringframework/helloworld/HelloWorldConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-spring-framework-02/src/test/java/com/feeeeel/learnspringframework/LearnSpringFrameworkApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/App01GamingBasicJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/App01GamingBasicJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/App02HelloWorldSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/HelloWorldConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/helloworld/HelloWorldConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/game/GameRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/game/GameRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/game/GamingConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/game/GamingConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/game/MarioGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/game/MarioGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/game/PacmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/game/PacmanGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/feeeeel/learnspringframework/game/SuperContraGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/java/com/feeeeel/learnspringframework/game/SuperContraGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/test/java/com/feeeeel/learnspringframework/LearnSpringFrameworkApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework-01/src/test/java/com/feeeeel/learnspringframework/LearnSpringFrameworkApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2aTr6g58SUOnqgEQL2v3MGxD9nU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Philip/OneDrive_KU/Desktop/CSP/Study/Java_Spring/Projects/learn-spring-framework-02",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="63ad4eaa-19ec-4001-acc3-d2ab8d80128d" name="변경" comment="" />
+      <created>1704353235258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704353235258</updated>
+      <workItem from="1704353236468" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
